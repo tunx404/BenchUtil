@@ -1,4 +1,5 @@
-flops32
-flops64
-iops32
-iops64
+build*
+out
+.vscode
+
+*.txt
